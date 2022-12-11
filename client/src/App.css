@@ -1,0 +1,9 @@
+.containerStyle {
+  width: 50%;
+  height: 50%;
+}
+
+.attendance {
+  position: relative;
+  left: 40rem;
+}
